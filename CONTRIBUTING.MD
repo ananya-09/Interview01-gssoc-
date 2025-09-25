@@ -1,7 +1,7 @@
 # Contributing to InterviewAce 🚀
 
-Thanks for checking out our project.  We’re excited to have you contribute.
-We've put together the following guidelines to help you figure out where you can best be helpful.
+Thanks for checking the project.  I'm excited to have you contribute.
+I've put together the following guidelines to help you figure out where you can best be helpful.
 
 ---
 
