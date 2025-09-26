@@ -13,10 +13,10 @@ I've put together the following guidelines to help you figure out where you can 
     - [Backend & Database](#backend--database)
     - [Data Processing](#data-processing)
     - [UI/UX](#uiux)
-2. [Prerequisites](#️-prerequisites)
+2. [Prerequisites](#-prerequisites)
 3. [Here's how to get started](#-how-to-get-started)
     - [Installation](#installation)
-4. [Project Structure](#️-project-structure)
+4. [Project Structure](#-project-structure)
 5. [Support](#-support)
 
 ---
