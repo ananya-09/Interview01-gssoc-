@@ -7,21 +7,21 @@ I've put together the following guidelines to help you figure out where you can 
 
 ## Table of Contents
 
-1. [Tech Stacks Used](#-tech-stack)
+1. [Tech Stacks Used](#tech-stack)
     - [Frontend](#frontend)
     - [AI & Computer Vision](#ai--computer-vision)
     - [Backend & Database](#backend--database)
     - [Data Processing](#data-processing)
     - [UI/UX](#uiux)
-2. [Prerequisites](#️-prerequisites)
-3. [Here's how to get started](#-how-to-get-started)
+2. [Prerequisites](#prerequisites)
+3. [Here's how to get started](#how-to-get-started)
     - [Installation](#installation)
-4. [Project Structure](#️-project-structure)
+4. [Project Structure](#project-structure)
 5. [Support](#-support)
 
 ---
 
-## 📌 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -63,7 +63,7 @@ I've put together the following guidelines to help you figure out where you can 
 
 ---
 
-## ⏮️ Prerequisites
+## Prerequisites
 
 - Node.js (v18 or higher)
 - npm or yarn package manager
@@ -71,7 +71,7 @@ I've put together the following guidelines to help you figure out where you can 
 
 ---
 
-## 🚀 How to Get Started
+## How to Get Started
 
 ### Installation
 
@@ -114,7 +114,7 @@ I've put together the following guidelines to help you figure out where you can 
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```txt
 src/
