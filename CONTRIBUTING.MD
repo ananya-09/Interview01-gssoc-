@@ -148,6 +148,6 @@ For support, [email us](mailto:support@interviewace.com) or join our [Slack chan
 
 ---
 
-Built with [Om Singh❤️] for the developer community
+Built with Om Singh❤️ for the developer community
 
 *Transform your interview preparation with AI-powered coaching and real-time feedback.*
